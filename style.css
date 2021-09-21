@@ -1,0 +1,33 @@
+body
+{
+    background-size:cover ;
+}
+
+.title
+{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    color: antiquewhite;
+}
+
+.copyright-fooyter
+{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 0, 255);
+    font-weight: 500;
+}
+
+canvas
+{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    margin-top: 100px;
+    background-color: rgb(154, 150, 156);
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
